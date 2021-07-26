@@ -9,7 +9,7 @@
   "bin": {
     "koaDbTemplate-cli": "index.js"
   },
-  "keywords": [],
+  "keywords": ["koa", "mysql", "mongo"],
   "author": "",
   "license": "MIT",
   "dependencies": {
